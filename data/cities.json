@@ -59,6 +59,18 @@
         "lng": "34.50256347656251"
       },
       "id": 98443201
+    },
+    {
+      "cityName": "Angoustrine-Villeneuve-des-Escaldes",
+      "country": "France",
+      "date": "2023-12-09T12:39:26.599Z",
+      "notes": "amizing",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "42.601619944327965",
+        "lng": "1.9116210937500002"
+      },
+      "id": 98443202
     }
   ]
 }

@@ -1,5 +1,6 @@
 import { createContext, useEffect, useReducer, useState } from "react";
-const BASE_URL = "http://localhost:8000";
+// const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://my-json-server.typicode.com/khaled975/WorldWise_server/";
 
 const CitiesContext = createContext();
 
